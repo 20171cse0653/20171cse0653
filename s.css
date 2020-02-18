@@ -1,0 +1,40 @@
+h1{
+color:blue;
+margin-left:500px;
+margin-bottom:100px;
+front-family:"courier new";
+front-size:50px;
+}
+p{
+color:grey;
+margin-left:500px;
+margin-bottom:100px;
+font-family:"courier new";
+text-decoration:underline;
+text-transform:uppercase;
+}
+p.first{
+color:green;
+margin-left:500px;
+margin-bottom:100px;
+front-family:"courier new";
+}
+h1.sec{
+color:red;
+margin-left:500px;
+margin-bottom:100px;
+front-family:"courier new";
+text-decoration:underline;
+text-shadow:5px 5px 10px blue;
+
+}
+img:hover{
+box-shadow:10px 10px blue;
+border:3px dashed blue;
+margin-right:30px;
+height:500px;
+opacity:0.5;
+}
+
+
+
